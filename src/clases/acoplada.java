@@ -159,6 +159,7 @@ public class acoplada {
         g2d.drawLine(80, 44, 80, 14);
         g2d.drawLine(80, 117, 80, 147);
         
+               
         
         
         
